@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # Gotham Series
 
 **Gotham** is an American crime drama television series developed by Bruno Heller, based on characters from the DC Comics universe.
